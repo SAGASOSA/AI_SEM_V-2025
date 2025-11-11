@@ -7,3 +7,6 @@ Simulate how algorithmic bias in recommendation systems can influence voter opin
 1. Install dependencies:
    ```bash
    pip install streamlit pandas scikit-learn matplotlib
+2. run the program file :
+   streamlit run interface.py
+
